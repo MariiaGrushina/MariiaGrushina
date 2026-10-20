@@ -1,5 +1,3 @@
-# aboutMe
-
 ## 💛 Hello! I'm Mariia 💛
 
 I'm a Computer Science student at Georgia Tech, passionate about AI, robotics, and software engineering!
