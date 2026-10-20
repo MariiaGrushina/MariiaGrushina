@@ -15,4 +15,5 @@ Outside of coding, I enjoy learning new things, reading, going to the gym, skiin
 ### 🔗 Other Socials / Links
 
 LinkedIn: [My LinkedIn](https://www.linkedin.com/)
+
 Email: [Contact Me](mailto\:your-email@example.com)
